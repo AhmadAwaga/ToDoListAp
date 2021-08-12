@@ -1,0 +1,20 @@
+PODS:
+  - DGElasticPullToRefresh (1.1)
+  - IQKeyboardManagerSwift (6.5.6)
+
+DEPENDENCIES:
+  - DGElasticPullToRefresh
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  trunk:
+    - DGElasticPullToRefresh
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+
+PODFILE CHECKSUM: f04d28225d7bbf2f9fcf56908221b9add0dd237b
+
+COCOAPODS: 1.10.1
